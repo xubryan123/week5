@@ -1,7 +1,27 @@
-h1{
-    color: #FF0000
+
+
+
+.paris{
+    color: red
 }
 
-.capital{
-    color: #F5F5DC
+.paris{
+    background-color: beige
+}
+
+#london{
+    background-color: pink
+}
+
+#myspan{
+    padding: 5px; 
+    border-top: 2px;
+    border-bottom: 4px gray
+}
+
+p{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: lightgreen;
+    margin: 5px
 }
