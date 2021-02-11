@@ -1,6 +1,12 @@
 
 
 
+h1,h2{
+    font: 24px 'Roboto', sans-serif;
+    text-align: center;
+}
+
+
 .paris{
     color: red
 }
@@ -25,3 +31,7 @@ p{
     border-color: lightgreen;
     margin: 5px
 }
+
+body{
+    font: 12px 'Crimson Text', serif
+} 
